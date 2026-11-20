@@ -1,0 +1,17 @@
+Перед треками, если без рекламы
+open1.mp3
+open2.mp3
+open3.mp3
+open4.mp3
+open5.mp3
+
+Реклама
+rek1.mp3
+rek2.mp3
+rek3.mp3
+
+Перед рекламой
+rekpause1.mp3
+rekpause2.mp3
+rekpause3.mp3
+
